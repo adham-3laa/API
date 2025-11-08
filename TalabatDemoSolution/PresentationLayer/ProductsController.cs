@@ -1,12 +1,12 @@
-﻿using ServiceAbstractionLayer;
-
+﻿using Microsoft.AspNetCore.Mvc;
+using ServiceAbstractionLayer;
+using Shared;
+using Shared.DTOS;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Shared.DTOS;
 
 namespace PresentationLayer
 {
@@ -15,9 +15,9 @@ namespace PresentationLayer
     public class ProductsController(IServiceManager _serviceManager) :ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts()
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts([FromQuery] ProductQueryParams queryParams)
         { 
-            var products =await _serviceManager.ProductService.GetAllProductsAsync();
+            var products =await _serviceManager.ProductService.GetAllProductsAsync(queryParams);
             return Ok(products);
         }
         

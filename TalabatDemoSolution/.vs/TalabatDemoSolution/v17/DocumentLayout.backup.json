@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\route\\assinments\\API\\TalabatDemoSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\persintencelayer\\repositorys\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,56 @@
       "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\presentationlayer\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\persintencelayer\\repositorys\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,32 +103,8 @@
       "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\presentationlayer\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\talabatdemo\\talabatdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\talabatdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\servicelayer\\servicelayerassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\route\\assinments\\api\\talabatdemosolution\\shared\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,52 +174,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseSpecifications.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\BaseSpecifications.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs*",
-              "RelativeToolTip": "ServiceLayer\\Specifications\\BaseSpecifications.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductCountSpecifications.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs*",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\ProductCountSpecifications.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T14:24:18.077Z",
+              "WhenOpened": "2025-11-08T14:02:58.393Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ProductService.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs*",
+              "RelativeToolTip": "ServiceLayer\\ProductService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:52:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ProductsController.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\ProductsController.cs",
+              "RelativeToolTip": "PresentationLayer\\ProductsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:10:57.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ISpecifications.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\ISpecifications.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs*",
-              "RelativeToolTip": "DomainLayer\\Contracts\\ISpecifications.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T14:19:06.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IGenericRepository.cs",
               "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IGenericRepository.cs*",
               "RelativeToolTip": "DomainLayer\\Contracts\\IGenericRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T11:21:33.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\GenericRepository.cs",
               "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\GenericRepository.cs",
               "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\GenericRepository.cs*",
               "RelativeToolTip": "PersintenceLayer\\Repositorys\\GenericRepository.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T11:33:15.058Z",
               "EditorCaption": ""
@@ -203,19 +239,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PictureUrlResolver.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IProductService.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T19:48:42.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T15:44:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IServiceManager.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Shared\\PaginatedResult.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\PaginatedResult.cs",
+              "RelativeToolTip": "Shared\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:03:32.112Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductQueryParams.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:42:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:06:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\ISpecifications.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\ISpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:19:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductWithBrandAndTypeSpecifications.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:36:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:24:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductSortingOptions.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\ProductSortingOptions.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductSortingOptions.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\ProductSortingOptions.cs",
+              "RelativeToolTip": "Shared\\ProductSortingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:59:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T17:26:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "DataSeeding.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\DataSeeding.cs",
               "RelativeDocumentMoniker": "PersintenceLayer\\DataSeeding.cs",
@@ -227,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\appsettings.json",
               "RelativeDocumentMoniker": "TalabatDemo\\appsettings.json",
@@ -239,7 +382,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceManager.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
+              "RelativeToolTip": "ServiceLayer\\ServiceManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:14:14.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PictureUrlResolver.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:48:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "productProfile.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\productProfile.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\productProfile.cs",
@@ -252,114 +419,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IServiceManager.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
-              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IServiceManager.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
-              "RelativeToolTip": "ServiceAbstractionLayer\\IServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:13:02.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
-              "RelativeDocumentMoniker": "TalabatDemo\\Program.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
-              "RelativeToolTip": "TalabatDemo\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wDEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T13:53:52.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\ServiceManager.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
-              "RelativeToolTip": "ServiceLayer\\ServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:14:14.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PresentationLayer.csproj",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
-              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
-              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-30T17:26:03.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\ProductService.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs",
-              "RelativeToolTip": "ServiceLayer\\ProductService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T15:52:45.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IDataSeeding.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IDataSeeding.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
-              "RelativeToolTip": "DomainLayer\\Contracts\\IDataSeeding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:18:33.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StoreDbContext.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
-              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\StoreDbContext.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
-              "RelativeToolTip": "PersintenceLayer\\Data\\StoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T09:14:45.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductConfigurations.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
-              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
-              "RelativeToolTip": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T09:21:42.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\ProductsController.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\ProductsController.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PresentationLayer\\ProductsController.cs",
-              "RelativeToolTip": "PresentationLayer\\ProductsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:10:57.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "ServiceLayer.csproj",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceLayer.csproj",
               "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
@@ -371,7 +430,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeToolTip": "TalabatDemo\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:53:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:18:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\StoreDbContext.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:14:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:21:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "20251030174707_1.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
               "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
@@ -383,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "TalabatDemo.csproj",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj",
               "RelativeDocumentMoniker": "TalabatDemo\\TalabatDemo.csproj",
@@ -395,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "ServiceLayerAssemblyReference.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayerAssemblyReference.cs",
@@ -407,19 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
-              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IProductService.cs",
-              "ToolTip": "D:\\route\\assinments\\API\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
-              "RelativeToolTip": "ServiceAbstractionLayer\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T15:44:52.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "BrandDto.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\DTOS\\BrandDto.cs",
               "RelativeDocumentMoniker": "Shared\\DTOS\\BrandDto.cs",
@@ -431,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\DTOS\\ProductDto.cs",
               "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDto.cs",
@@ -443,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "TypeDto.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\Shared\\DTOS\\TypeDto.cs",
               "RelativeDocumentMoniker": "Shared\\DTOS\\TypeDto.cs",
@@ -455,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\UnitOfWork.cs",
@@ -467,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Contracts\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IUnitOfWork.cs",
@@ -479,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "20251027094904_OnitialCreate.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
               "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
@@ -491,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "ProductType.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Models\\ProductType.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\ProductType.cs",
@@ -503,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ProductBrand.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Models\\ProductBrand.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\ProductBrand.cs",
@@ -515,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Models\\Product.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Product.cs",
@@ -527,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\route\\assinments\\API\\TalabatDemoSolution\\DomainLayer\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseEntity.cs",
