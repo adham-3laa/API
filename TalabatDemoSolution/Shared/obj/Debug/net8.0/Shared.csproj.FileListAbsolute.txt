@@ -1,0 +1,44 @@
+D:\route\assinments\API\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\route\assinments\API\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\Shared\obj\Debug\net8.0\ref\Shared.dll
+D:\route\assinments\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\route\assinments\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.dll
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.pdb
+D:\route\assinments\TalabatDemoSolution\Shared\obj\Debug\net8.0\ref\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.deps.json
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\refint\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\Shared\obj\Debug\net8.0\ref\Shared.dll
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.dll
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\Shared.pdb
+D:\route\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\route\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.dll
+D:\route\TalabatDemoSolution\Shared\bin\Debug\net8.0\Shared.pdb
+D:\route\TalabatDemoSolution\Shared\obj\Debug\net8.0\ref\Shared.dll

@@ -1,0 +1,68 @@
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Session 6\Demo\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\route\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
