@@ -1,0 +1,85 @@
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.deps.json
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\Shared.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\bin\Debug\net8.0\Shared.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.AssemblyReference.cache
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfoInputs.cache
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfo.cs
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.CoreCompileInputs.cache
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\Persiste.4ACC52CF.Up2Date
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\refint\PersistenceLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\InfraStructure\Persistence\obj\Debug\net8.0\ref\PersistenceLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.deps.json
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\Shared.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\bin\Debug\net8.0\Shared.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.AssemblyReference.cache
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfoInputs.cache
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfo.cs
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.CoreCompileInputs.cache
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.sourcelink.json
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\Persiste.4ACC52CF.Up2Date
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\refint\PersistenceLayer.dll
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.pdb
+C:\Users\password\Talabat-System\InfraStructure\Persistence\obj\Debug\net8.0\ref\PersistenceLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.deps.json
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\Shared.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\bin\Debug\net8.0\Shared.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.AssemblyReference.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfoInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfo.cs
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.CoreCompileInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\Persiste.4ACC52CF.Up2Date
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\refint\PersistenceLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\InfraStructure\Persistence\obj\Debug\net8.0\ref\PersistenceLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.deps.json
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\PersistenceLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\ServiceLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.AssemblyReference.cache
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfoInputs.cache
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.AssemblyInfo.cs
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\Persiste.4ACC52CF.Up2Date
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\refint\PersistenceLayer.dll
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\PersistenceLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\InfraStructure\Persistence\obj\Debug\net8.0\ref\PersistenceLayer.dll

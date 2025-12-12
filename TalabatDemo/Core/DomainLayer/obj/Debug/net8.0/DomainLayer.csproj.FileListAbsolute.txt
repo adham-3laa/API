@@ -1,0 +1,48 @@
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+F:\RouteAcademayVersion02\APIs\TalabatSystem\TalabatSystem\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\password\Talabat-System\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\password\Talabat-System\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\password\Talabat-System\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\password\Talabat-System\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+E:\Programing\Courses\Asp.net Core (Route)\3-Frameworkes\3-API\Nada\Adham\Session 6\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\New folder\TalabatDemo\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

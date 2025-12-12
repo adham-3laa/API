@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\New folder\\TalabatDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3AD881-C912-498B-8E60-CB6DF7AF3CC6}|TalabatSystem\\TalabatSystem.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\talabatsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D3AD881-C912-498B-8E60-CB6DF7AF3CC6}|TalabatSystem\\TalabatSystem.csproj|solutionrelative:talabatsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57D78DD-A80B-424E-8137-C5A010A1298C}|InfraStructure\\Persistence\\PersistenceLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57D78DD-A80B-424E-8137-C5A010A1298C}|InfraStructure\\Persistence\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\basketmodels\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\basketmodels\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\ordermodels\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodels\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\identitymodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\identitymodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\models\\basketmodels\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\basketmodels\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\exceptions\\emailorphonealreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\emailorphonealreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\exceptions\\forbiddenexceptions\\getorderbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\forbiddenexceptions\\getorderbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\exceptions\\forbiddenexceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\forbiddenexceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|d:\\route\\assinments\\new folder\\talabatdemo\\core\\domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF1967-77D7-435C-8425-142544E32AF8}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\TalabatSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TalabatSystem\\appsettings.json",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\TalabatSystem\\appsettings.json",
+              "RelativeToolTip": "TalabatSystem\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T21:45:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\InfraStructure\\Persistence\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\Persistence\\DataSeeding.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\InfraStructure\\Persistence\\DataSeeding.cs",
+              "RelativeToolTip": "InfraStructure\\Persistence\\DataSeeding.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:40:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:51.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\Product.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\ShippingAddress.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\ShippingAddress.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\ShippingAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:41.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\ProductItemOrdered.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\ProductItemOrdered.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\ProductItemOrdered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:36.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\OrderStatus.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\OrderStatus.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:32.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\OrderItem.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\OrderItem.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\Order.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\Order.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModels\\DeliveryMethod.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\OrderModels\\DeliveryMethod.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModels\\DeliveryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:11.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:06.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:54.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:48:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetOrderByIdException.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\GetOrderByIdException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\GetOrderByIdException.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\GetOrderByIdException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\GetOrderByIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:45.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\ForbiddenException.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\ForbiddenExceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailOrPhoneAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\EmailOrPhoneAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\EmailOrPhoneAlreadyExistException.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\EmailOrPhoneAlreadyExistException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\EmailOrPhoneAlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:28.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:12.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:47:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\New folder\\TalabatDemo\\Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:46:58.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
